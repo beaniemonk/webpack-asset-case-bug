@@ -1,0 +1,15 @@
+{
+  "name": "webpack-asset-case-bug",
+  "version": "1.0.0",
+  "description": "Webpack asset case bug",
+  "license": "ISC",
+  "repository": "https://github.com/beaniemonk/webpack-asset-case-bug",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest"
+  }
+}
